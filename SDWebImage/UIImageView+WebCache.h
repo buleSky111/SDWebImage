@@ -11,6 +11,7 @@
 #if SD_UIKIT || SD_MAC
 
 #import "SDWebImageManager.h"
+#import "FLAnimatedImageView+WebCache.h"
 
 /**
  * Integrates SDWebImage async downloading and caching of remote images with UIImageView.
